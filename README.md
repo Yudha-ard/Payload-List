@@ -1,2 +1,2 @@
-# XSS-List
-xss-list
+# Payload-List
+All Payload 
